@@ -9,7 +9,7 @@ def parse_payload(payload):
 
 
 def get_log(api, log_id):
-	return None
+	pass
 
 
 if __name__ == "__main__":

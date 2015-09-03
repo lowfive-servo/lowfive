@@ -1,7 +1,4 @@
-# Byte-compiled / optimized / DDL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-#config file
-config
+.env
+Gemfile.lock
+spec/tmp
+doc

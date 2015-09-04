@@ -1,5 +1,5 @@
 task default: %w[test]
 
 task :test do
-	ruby "test/unittest.rb"
+	ruby "test/test-travis-utils.rb"
 end

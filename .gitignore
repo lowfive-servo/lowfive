@@ -1,4 +1,6 @@
-.env
-Gemfile.lock
-spec/tmp
-doc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+config/config.ini

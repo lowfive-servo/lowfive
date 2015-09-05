@@ -1,0 +1,6 @@
+[application]
+repo: your/repo
+
+[github bot]
+username: botusername
+password: botpassword
